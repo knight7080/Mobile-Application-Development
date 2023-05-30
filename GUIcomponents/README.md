@@ -28,7 +28,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-Program to print the text GUIcomponent.
+Program to develop an application that uses GUI Components with Fonts and Colors.
 Developed by: KAUSHIK R
 Registeration Number :212221040077
 ```
