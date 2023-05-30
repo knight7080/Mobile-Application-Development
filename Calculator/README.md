@@ -26,11 +26,9 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
-/*
-Program to print the text “calculator operation”.
+Program to print the text “Calculator Operation”.
 Developed by: KAUSHIK R
 Registeration Number : 212221040077
-*/
 ```
 **XML CODE:**
 ```xml
@@ -173,10 +171,11 @@ Registeration Number : 212221040077
         });
     }
     }
-    ```
+   ``` 
 
-## OUTPUT
+## OUTPUT:
 
+   ![image](https://github.com/knight7080/Mobile-Application-Development/assets/88542035/3f17047e-c767-4f69-8b83-23ab71287a2f)
    ![image](https://github.com/knight7080/Mobile-Application-Development/assets/88542035/0aa2e104-5b73-4a10-b15e-fef3c9446e1f)
    ![image](https://github.com/knight7080/Mobile-Application-Development/assets/88542035/2c1d9995-bae4-4068-bbf2-e13522250484)
    ![image](https://github.com/knight7080/Mobile-Application-Development/assets/88542035/53ad193c-addf-4fb2-ac84-1c5528c99c81)
@@ -186,7 +185,6 @@ Registeration Number : 212221040077
    ![image](https://github.com/knight7080/Mobile-Application-Development/assets/88542035/c69ba344-191c-4a99-b871-d4dbd17021bb)
 
 
+## RESULT:
 
-
-## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
